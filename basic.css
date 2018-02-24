@@ -28,7 +28,6 @@ h1, h2, h3{
 	text-align: center;
 	color: white;
 	font-family: Verdana, "Arial Narrow", sans-serif;
-
 }
 body {
    background: linear-gradient(turquoise, Dodgerblue);
@@ -38,7 +37,7 @@ body {
     margin-left: auto;
     margin-right: auto;
 	padding: 30px;
-    
+	width: 50%;
 }
 .paragraphcenter{
 	text-align: center;
