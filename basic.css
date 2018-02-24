@@ -34,7 +34,7 @@ body {
    background: linear-gradient(turquoise, Dodgerblue);
 }
 .center {
-	
+	display:block;
     margin-left: auto;
     margin-right: auto;
 	padding: 30px;
@@ -57,7 +57,7 @@ p {
 
 }
 .vcenter{
-	 margin-left: 30%;
+	 margin-left: 40%;
 	
 }
 
