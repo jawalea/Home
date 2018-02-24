@@ -56,7 +56,11 @@ p {
 
 }
 .vcenter{
-	 margin-left: 40%;
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+	padding: 30px;
+	width: 50%;
 	
 }
 
