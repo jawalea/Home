@@ -4,6 +4,7 @@
 	font-family: Verdana, "Arial Narrow", sans-serif;
 	font-size: 60px;
 	text-shadow: 2px 2px 5px blue;
+	/*Styling the header*/
 }
 .paragraph {
 	text-align: center;
@@ -37,6 +38,7 @@ body {
     	margin-right: auto;
 	padding: 30px;
 	width: 50%;
+	/*Centering elements*/
 }
 .paragraphcenter{
 	text-align: center;
